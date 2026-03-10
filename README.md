@@ -33,6 +33,6 @@ The dataset contains information about different tasks performed by AI systems a
 
 ## Files Included
 
-* `AI_vs_Human_Performance.pbix` – Power BI project file
+* `AI_vs_Human_Comparison_Analysis.pbix` – Power BI project file
 * `dataset.xlsx` – Dataset used for analysis
 * `dashboard.png` – Dashboard screenshot
